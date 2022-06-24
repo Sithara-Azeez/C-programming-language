@@ -1,0 +1,36 @@
+/*
+ ============================================================================
+ Name        : testbrototype.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int choice;
+	setbuf(stdout,NULL);
+	printf("1 for POROTTA\n 2 for MANDHI\n 3 for BUTTERCHICKEN\n 4 for NOODLES\n ENTER YOUR CHOICE:");
+	scanf("%d",&choice);
+	switch(choice){
+	case 1:
+		printf("You have entered for POROTTA");
+		break;
+	case 2:
+		printf("You have entered for MANDHI");
+		break;
+	case 3:
+		printf("You have entered for BUTTERCHICKEN");
+		break;
+	case 4:
+		printf("You have entered for NOODLES");
+		break;
+	default:
+		printf("FOOOLLL!!!!!");
+	}
+	return EXIT_SUCCESS;
+}

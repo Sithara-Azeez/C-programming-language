@@ -1,0 +1,29 @@
+/*
+ ============================================================================
+ Name        : sample.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+	char a,b,c,d,e,failed;
+	int grade;
+	setbuf(stdout,NULL);
+	printf("enter your grade");
+	scanf("%d",&grade);
+	if(grade==a){
+		grade=<90;
+		printf("your grade is %c",grade);
+	}else if(grade==b){
+		grade=80-89;
+		printf("your grade is %c",grade);
+	}
+
+		return EXIT_SUCCESS;
+}

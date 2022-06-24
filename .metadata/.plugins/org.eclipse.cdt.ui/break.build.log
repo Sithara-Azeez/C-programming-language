@@ -1,0 +1,7 @@
+21:18:03 **** Incremental Build of configuration Debug for project break ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break.o" "..\\src\\break.c" 
+gcc -o break.exe "src\\break.o" 
+
+21:18:04 Build Finished. 0 errors, 0 warnings. (took 609ms)
+

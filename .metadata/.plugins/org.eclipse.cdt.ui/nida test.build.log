@@ -1,0 +1,7 @@
+16:59:27 **** Incremental Build of configuration Debug for project nida test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\nida test.o" "..\\src\\nida test.c" 
+gcc -o "nida test.exe" "src\\nida test.o" 
+
+16:59:27 Build Finished. 0 errors, 0 warnings. (took 356ms)
+

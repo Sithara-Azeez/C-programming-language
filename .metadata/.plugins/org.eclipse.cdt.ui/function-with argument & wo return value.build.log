@@ -1,0 +1,7 @@
+02:15:09 **** Incremental Build of configuration Debug for project function-with argument & wo return value ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\function-with argument & wo return value.o" "..\\src\\function-with argument & wo return value.c" 
+gcc -o "function-with argument & wo return value.exe" "src\\function-with argument & wo return value.o" 
+
+02:15:09 Build Finished. 0 errors, 0 warnings. (took 446ms)
+

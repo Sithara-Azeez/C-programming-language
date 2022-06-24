@@ -1,0 +1,7 @@
+23:30:31 **** Incremental Build of configuration Debug for project assignment4.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment4.3.o" "..\\src\\assignment4.3.c" 
+gcc -o assignment4.3.exe "src\\assignment4.3.o" 
+
+23:30:31 Build Finished. 0 errors, 0 warnings. (took 381ms)
+

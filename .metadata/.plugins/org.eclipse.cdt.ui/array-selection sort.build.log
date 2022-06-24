@@ -1,0 +1,7 @@
+02:34:21 **** Incremental Build of configuration Debug for project array-selection sort ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array-selection sort.o" "..\\src\\array-selection sort.c" 
+gcc -o "array-selection sort.exe" "src\\array-selection sort.o" 
+
+02:34:21 Build Finished. 0 errors, 0 warnings. (took 510ms)
+

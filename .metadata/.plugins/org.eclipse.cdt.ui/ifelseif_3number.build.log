@@ -1,0 +1,7 @@
+02:24:22 **** Incremental Build of configuration Debug for project ifelseif_3number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ifelseif_3number.o" "..\\src\\ifelseif_3number.c" 
+gcc -o ifelseif_3number.exe "src\\ifelseif_3number.o" 
+
+02:24:22 Build Finished. 0 errors, 0 warnings. (took 442ms)
+

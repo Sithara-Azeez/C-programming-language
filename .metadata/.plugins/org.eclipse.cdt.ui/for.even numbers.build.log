@@ -1,0 +1,7 @@
+19:39:07 **** Incremental Build of configuration Debug for project for.even numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\for.even numbers.o" "..\\src\\for.even numbers.c" 
+gcc -o "for.even numbers.exe" "src\\for.even numbers.o" 
+
+19:39:07 Build Finished. 0 errors, 0 warnings. (took 352ms)
+

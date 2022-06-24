@@ -1,0 +1,7 @@
+00:30:30 **** Incremental Build of configuration Debug for project if.2numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if.2numbers.o" "..\\src\\if.2numbers.c" 
+gcc -o if.2numbers.exe "src\\if.2numbers.o" 
+
+00:30:31 Build Finished. 0 errors, 0 warnings. (took 314ms)
+

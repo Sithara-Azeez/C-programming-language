@@ -1,0 +1,7 @@
+00:49:57 **** Incremental Build of configuration Debug for project string-using gets method ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string-using gets method.o" "..\\src\\string-using gets method.c" 
+gcc -o "string-using gets method.exe" "src\\string-using gets method.o" 
+
+00:49:58 Build Finished. 0 errors, 0 warnings. (took 497ms)
+

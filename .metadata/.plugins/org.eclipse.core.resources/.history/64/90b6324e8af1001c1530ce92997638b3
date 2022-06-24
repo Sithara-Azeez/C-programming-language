@@ -1,0 +1,37 @@
+/*
+ ============================================================================
+ Name        : sample.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int choice;
+	setbuf(stdout,NULL);
+	printf("1 for porotta \n2 fpr biriyani \n3 for noodles \n4 for mandhi \nEnter your choice");
+	scanf("%d",choice);
+	switch(choice){
+	 case 1:
+		 printf("you've selected porotta");
+		 break;
+	 case 2:
+		 printf("you've selected biriyani");
+		 break;
+	 case 3:
+		 printf("you've selected noodles");
+		 break;
+	 case 4:
+		 printf("you've selected mandhi");
+		 break;
+	 default:
+		 printf("you're a fool!!!");
+
+	}
+		return EXIT_SUCCESS;
+}

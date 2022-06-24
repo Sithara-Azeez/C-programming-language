@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : testbrototype.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int a1[100],i,limit,count=0;
+	setbuf(stdout,NULL);
+	printf("enter array limit");
+	scanf("%d",&limit);
+	printf("enter a values of Array1:");
+
+	for(i=0;i<limit;i++){
+
+		scanf("%d",&a1[i]);
+	}
+	for(i=0;i<limit;i++){
+		if(a1[i]%2==0){
+			count=++count;
+		}
+	}
+	printf("numbers of even number is %d",count);
+
+	return EXIT_SUCCESS;
+}

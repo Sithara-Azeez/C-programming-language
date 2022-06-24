@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : sample.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	char a;
+	setbuf(stdout,NULL);
+	printf("enter a value");
+	scanf("%c",&a);
+	printf("your entered value is:%c",a);
+
+		return EXIT_SUCCESS;
+}

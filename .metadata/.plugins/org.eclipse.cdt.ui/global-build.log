@@ -1,0 +1,196 @@
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+23:35:09 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:15:6: warning: unused variable 'num'
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file sample nida.exe: Permission denied
+collect2: ld returned 1 exit status
+23:35:24 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+23:35:39 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+23:38:10 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+23:43:48 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file sample nida.exe: Permission denied
+collect2: ld returned 1 exit status
+23:44:04 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+23:45:27 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:18:2: warning: format '%d' expects type 'int *', but argument 2 has type 'float *'
+..\src\sample nida.c:19:5: error: 'num' undeclared (first use in this function)
+..\src\sample nida.c:19:5: note: each undeclared identifier is reported only once for each function it appears in
+23:45:27 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:18:2: warning: format '%d' expects type 'int *', but argument 2 has type 'float *'
+..\src\sample nida.c:19:5: error: 'num' undeclared (first use in this function)
+..\src\sample nida.c:19:5: note: each undeclared identifier is reported only once for each function it appears in
+23:45:27 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:18:2: warning: format '%d' expects type 'int *', but argument 2 has type 'float *'
+..\src\sample nida.c:19:5: error: 'num' undeclared (first use in this function)
+..\src\sample nida.c:19:5: note: each undeclared identifier is reported only once for each function it appears in
+23:45:28 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:18:2: warning: format '%d' expects type 'int *', but argument 2 has type 'float *'
+..\src\sample nida.c:19:5: error: 'num' undeclared (first use in this function)
+..\src\sample nida.c:19:5: note: each undeclared identifier is reported only once for each function it appears in
+23:45:50 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:18:2: warning: format '%d' expects type 'int *', but argument 2 has type 'float *'
+..\src\sample nida.c:19:5: error: 'num' undeclared (first use in this function)
+..\src\sample nida.c:19:5: note: each undeclared identifier is reported only once for each function it appears in
+23:46:25 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:18:2: warning: format '%d' expects type 'int *', but argument 2 has type 'float *'
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+00:24:25 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:2: error: expected ';' before 'if'
+..\src\sample nida.c:24:1: warning: control reaches end of non-void function
+00:24:57 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:2: error: expected ';' before 'if'
+..\src\sample nida.c:24:1: warning: control reaches end of non-void function
+00:25:24 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:12: error: expected expression before '<' token
+00:25:24 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:12: error: expected expression before '<' token
+00:26:03 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+c:/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file sample nida.exe: Permission denied
+collect2: ld returned 1 exit status
+00:26:28 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+00:28:41 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:4: error: expected '(' before '{' token
+..\src\sample nida.c:21:10: error: expected '(' before '{' token
+00:30:26 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:4: error: expected '(' before '{' token
+..\src\sample nida.c:21:3: warning: too many arguments for format
+..\src\sample nida.c:22:10: error: expected '(' before '{' token
+..\src\sample nida.c:24:3: warning: too many arguments for format
+00:30:50 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:4: error: expected '(' before '{' token
+..\src\sample nida.c:21:3: warning: too many arguments for format
+..\src\sample nida.c:22:10: error: expected '(' before '{' token
+..\src\sample nida.c:24:3: warning: too many arguments for format
+00:44:59 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:11: error: expected expression before '<' token
+00:45:36 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:11: error: expected expression before '>' token
+00:45:36 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:11: error: expected expression before '>' token
+00:45:54 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+..\src\sample nida.c: In function 'main':
+..\src\sample nida.c:19:11: error: expected expression before '>' token
+00:54:04 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+gcc -o "sample nida.exe" "src\\sample nida.o" 
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+Info: Nothing to build for sample nida
+00:55:09 **** Incremental Build of configuration Debug for project sample nida ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample nida.o" "..\\src\\sample nida.c" 
+gcc -o "sample nida.exe" "src\\sample nida.o" 

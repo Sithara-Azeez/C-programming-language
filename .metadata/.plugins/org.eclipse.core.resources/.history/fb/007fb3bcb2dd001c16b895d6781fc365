@@ -1,0 +1,38 @@
+/*
+ ============================================================================
+ Name        : testbrototype.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+    float mark;
+	setbuf(stdout,NULL);
+	printf("ENTER YOUR MARK:");
+	scanf("%f",&mark);
+	if(mark<90){
+		printf("A Grade");
+	}
+	else if(mark>80 && mark<89){
+		printf("B Grade");
+	}
+	else if(mark>70 && mark<79){
+		printf("C Grade");
+		}
+	else if(mark>60 && mark<69){
+		printf("D Grade");
+		}
+	else if(mark>50 && mark<59){
+		printf("E Grade");
+			}
+	else{
+		printf("SORRY FAILED!!!");
+	}
+	return EXIT_SUCCESS;
+}

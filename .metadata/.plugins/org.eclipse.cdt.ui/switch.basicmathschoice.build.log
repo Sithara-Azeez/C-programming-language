@@ -1,0 +1,7 @@
+16:14:01 **** Incremental Build of configuration Debug for project switch.basicmathschoice ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.basicmathschoice.o" "..\\src\\switch.basicmathschoice.c" 
+gcc -o switch.basicmathschoice.exe "src\\switch.basicmathschoice.o" 
+
+16:14:02 Build Finished. 0 errors, 0 warnings. (took 557ms)
+

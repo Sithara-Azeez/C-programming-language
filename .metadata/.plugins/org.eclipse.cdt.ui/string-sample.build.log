@@ -1,0 +1,7 @@
+00:47:04 **** Incremental Build of configuration Debug for project string-sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string-sample.o" "..\\src\\string-sample.c" 
+gcc -o string-sample.exe "src\\string-sample.o" 
+
+00:47:08 Build Finished. 0 errors, 0 warnings. (took 4s.801ms)
+

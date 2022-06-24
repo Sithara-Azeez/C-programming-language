@@ -1,0 +1,9 @@
+21:25:34 **** Incremental Build of configuration Debug for project continue ****
+Info: Internal Builder is used for build
+gcc -o continue.exe "src\\continue.o" 
+src\continue.o: In function `main':
+C:\Users\pc\eclipse-workspace\continue\Debug/../src/continue.c:22: undefined reference to `print'
+collect2: ld returned 1 exit status
+
+21:25:35 Build Failed. 1 errors, 0 warnings. (took 236ms)
+

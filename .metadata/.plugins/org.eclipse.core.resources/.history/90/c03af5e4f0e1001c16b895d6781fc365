@@ -1,0 +1,39 @@
+/*
+ ============================================================================
+ Name        : testbrototype.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int a[100],i,limit,searchkey;
+	setbuf(stdout,NULL);
+	printf("enter array limit");
+	scanf("%d",&limit);
+	printf("enter a values:");
+
+	for(i=0;i<limit;i++){
+
+		scanf("%d",&a[i]);
+	}
+	printf("Please enter search key");
+	scanf("%d",&searchkey);
+
+	for(i=0;i<limit;i++){
+		if(searchkey==a[i]){
+			printf("%d  found at this position",searchkey);
+		}else{
+			printf("value not found");
+		}
+	}
+
+
+
+	return EXIT_SUCCESS;
+}

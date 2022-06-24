@@ -1,0 +1,7 @@
+21:49:18 **** Incremental Build of configuration Debug for project for.print patterns ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\for.print patterns.o" "..\\src\\for.print patterns.c" 
+gcc -o "for.print patterns.exe" "src\\for.print patterns.o" 
+
+21:49:18 Build Finished. 0 errors, 0 warnings. (took 377ms)
+

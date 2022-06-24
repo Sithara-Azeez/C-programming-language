@@ -1,0 +1,12 @@
+23:14:39 **** Rebuild of configuration Debug for project inverted star pattern ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\inverted star pattern.o" "..\\src\\inverted star pattern.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[\bin;\bin;\usr\bin;D:/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin/server;D:/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;D:\node.js\;D:\Ruby31-x64\bin;C:\Users\pc\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\pc\AppData\Local\Programs\Python\Python38\;C:\Users\pc\AppData\Local\Microsoft\WindowsApps;;C:\Users\pc\AppData\Local\JetBrains\PyCharm Community Edition 2021.3\bin;;C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\pc\AppData\Roaming\npm;D:\eclipse]
+
+
+23:14:39 Build Finished. 0 errors, 0 warnings. (took 424ms)
+
